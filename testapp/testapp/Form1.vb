@@ -6,6 +6,8 @@ Public Class Form1
             If TypeOf (ctn) Is TextBox Then
                 AddHandler ctn.TextChanged, AddressOf tb_textChange
                 AddHandler ctn.Validated, AddressOf tb_textValidated
+            'Messagebox.show("Hello world") --- for test only.
+            
 
             End If
         Next
