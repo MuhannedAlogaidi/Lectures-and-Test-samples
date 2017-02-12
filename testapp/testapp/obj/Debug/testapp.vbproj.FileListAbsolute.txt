@@ -9,3 +9,14 @@ C:\Users\Mounes\Desktop\testapp\testapp\obj\Debug\testapp.exe
 C:\Users\Mounes\Desktop\testapp\testapp\obj\Debug\testapp.xml
 C:\Users\Mounes\Desktop\testapp\testapp\obj\Debug\testapp.pdb
 C:\Users\Mounes\Desktop\testapp\testapp\obj\Debug\testapp.Form2.resources
+E:\GitData\txt_valiate\testapp\testapp\bin\Debug\testapp.exe.config
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.exe
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.xml
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.pdb
+E:\GitData\txt_valiate\testapp\testapp\bin\Debug\testapp.exe
+E:\GitData\txt_valiate\testapp\testapp\bin\Debug\testapp.pdb
+E:\GitData\txt_valiate\testapp\testapp\bin\Debug\testapp.xml
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.Form1.resources
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.Form2.resources
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.Resources.resources
+E:\GitData\txt_valiate\testapp\testapp\obj\Debug\testapp.vbproj.GenerateResource.Cache
