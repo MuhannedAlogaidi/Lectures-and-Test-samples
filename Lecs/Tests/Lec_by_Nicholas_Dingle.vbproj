@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{533400BC-EB94-4E7D-9398-952484C48332}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <StartupObject>Lec_by_Nicholas_Dingle._2ClassesInOneClass</StartupObject>
+    <RootNamespace>Lec_by_Nicholas_Dingle</RootNamespace>
+    <AssemblyName>Lec_by_Nicholas_Dingle</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Console</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Lec_by_Nicholas_Dingle.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lec_by_Nicholas_Dingle.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lec1 %28console%29\Module1.vb" />
+    <Compile Include="Lec10%28Lists%29\Using Class with database.vb" />
+    <Compile Include="Lec10%28Lists%29\Module12.vb" />
+    <Compile Include="Lec10%28Lists%29\ListWithClassAndOpenFile.vb" />
+    <Compile Include="Lec11%28OpenFileSaveFile%29\Module14.vb" />
+    <Compile Include="Lec12%28Coercion%29\coercion1.vb" />
+    <Compile Include="Lec13%28Dates%29\dates.vb" />
+    <Compile Include="Lec14%28Enumerations%29\Enums.vb" />
+    <Compile Include="Lec15%28Serialization%29\binarySerialization.vb" />
+    <Compile Include="Lec2%28Variables%29\Module1.vb" />
+    <Compile Include="Lec3%28UserInput and Error Handling%29\Module3.vb" />
+    <Compile Include="Lec4%28Decision%29\Module4.vb" />
+    <Compile Include="Lec4%28Decision%29\Module5.vb" />
+    <Compile Include="Lec5%28String%29\Module6.vb" />
+    <Compile Include="Lec6%28Loops%29\Module7.vb" />
+    <Compile Include="Lec7%28SubsParamFunc%29\Module8.vb" />
+    <Compile Include="Lec7%28SubsParamFunc%29\parameters.vb" />
+    <Compile Include="Lec7%28SubsParamFunc%29\parametersArray.vb" />
+    <Compile Include="Lec8%28Classes%29\2ClassesInOneClass.vb" />
+    <Compile Include="Lec8%28Classes%29\cCube.vb" />
+    <Compile Include="Lec8%28Classes%29\ClassLec1.vb" />
+    <Compile Include="Lec8%28Classes%29\ClassLec2.vb" />
+    <Compile Include="Lec8%28Classes%29\cRectangle.vb" />
+    <Compile Include="Lec8%28Classes%29\testClassRevenueArray.vb" />
+    <Compile Include="Lec9%28Arrays%29\GenericArrays.vb" />
+    <Compile Include="Lec9%28Arrays%29\Module10.vb" />
+    <Compile Include="Lec9%28Arrays%29\Module11.vb" />
+    <Compile Include="Lec9%28Arrays%29\multidimentionalArrays.vb" />
+    <Compile Include="Lec9%28Arrays%29\RoomGame.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dec\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

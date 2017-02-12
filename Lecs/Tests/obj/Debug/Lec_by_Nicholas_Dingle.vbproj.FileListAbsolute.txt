@@ -1,0 +1,9 @@
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\bin\Debug\Lec_by_Nicholas_Dingle.exe.config
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\bin\Debug\Lec_by_Nicholas_Dingle.exe
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\bin\Debug\Lec_by_Nicholas_Dingle.pdb
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\bin\Debug\Lec_by_Nicholas_Dingle.xml
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\obj\Debug\Lec_by_Nicholas_Dingle.Resources.resources
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\obj\Debug\Lec_by_Nicholas_Dingle.vbproj.GenerateResource.Cache
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\obj\Debug\Lec_by_Nicholas_Dingle.exe
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\obj\Debug\Lec_by_Nicholas_Dingle.xml
+E:\vb.net\Vb.net & DB Class Manager\Lec_by_Nicholas_Dingle\obj\Debug\Lec_by_Nicholas_Dingle.pdb

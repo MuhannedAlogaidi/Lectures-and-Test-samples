@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lec_by_Nicholas_Dingle
+</name>
+</assembly>
+<members>
+<member name="M:Lec_by_Nicholas_Dingle.GenericArrays.generateArray(System.Int32,System.Int32,System.Int32,System.Boolean)">
+	<summary>
+ Creating a Generic Array with Random number
+ you need to have:
+ 1-Size which is the size of the array()
+ 2-min and max number for the random.
+ 3-optional unique which represent the uniquness of array items.
+ </summary>
+</member><member name="M:Lec_by_Nicholas_Dingle.GenericArrays.sortArray(System.Int32[])">
+	<summary>
+ Understanding bubble sort....
+ 10 2 11 -3 4 compare every 2 number and push the largest to the end.
+ 2 10 11 -3 4
+ 2 10 11 -3 4
+ 2 10 -3 11 4
+ 2 10 -3 4 11
+ </summary>
+	<param name="numToSort"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Lec_by_Nicholas_Dingle.Module4.main">
+	<summary>
+ that one is really perfect
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Lec_by_Nicholas_Dingle.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Lec_by_Nicholas_Dingle.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Lec_by_Nicholas_Dingle.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Lec_by_Nicholas_Dingle.coercion1.joins(System.String,System.String)">
+	<summary>
+ Coercion means overriding function to give you the ability to move between 
+ function which usually saw in some function with arrow down and arrow up
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

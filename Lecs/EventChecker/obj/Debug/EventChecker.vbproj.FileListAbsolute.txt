@@ -1,0 +1,11 @@
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\bin\Debug\EventChecker.exe.config
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\bin\Debug\EventChecker.exe
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\bin\Debug\EventChecker.pdb
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\bin\Debug\EventChecker.xml
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.Form1.resources
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.Resources.resources
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.vbproj.GenerateResource.Cache
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.exe
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.xml
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.pdb
+E:\vb.net\Vb.net & DB Class Manager\EventChecker\obj\Debug\EventChecker.UserControl1.resources
